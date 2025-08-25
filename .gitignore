@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.env
+*.log
+*.sqlite3
+.DS_Store
+
+
+
+
+Add .gitignore for Python project
